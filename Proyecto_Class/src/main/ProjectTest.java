@@ -1,5 +1,5 @@
-package Main;
-import Class.Project;
+package main;
+import classes.Project;
 public class ProjectTest {
 	public static void main(String[] args) {
 		Project proyecto1 = new Project();
